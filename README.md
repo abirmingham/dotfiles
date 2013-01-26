@@ -1,4 +1,4 @@
 dotfiles
 ========
 
-Font should be consolas, bolded.
+The things that go in ~
