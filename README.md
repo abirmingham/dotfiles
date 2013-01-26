@@ -1,4 +1,4 @@
 dotfiles
 ========
 
-The things that go in ~
+The things which live at ~.
